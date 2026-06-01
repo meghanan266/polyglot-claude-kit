@@ -13,9 +13,9 @@
 
 ## What This Is
 
-**polyglot-claude-kit** is a curated, multi-language toolkit for Claude Code that makes AI dramatically better at understanding and generating code across different tech stacks.
+**polyglot-claude-kit** is my personal, extensible Claude Code toolkit. It is designed to be stable for my .NET projects now and to grow into Node.js, Go, React, Angular, and other stacks later.
 
-Start with **.NET expertise** (10 specialist agents, 42 skills, 16 commands), then extend to **Node.js, Go, React, Angular** as you need them — all from a single repository.
+Start with **.NET expertise** (10 specialist agents, 42 skills, 16 commands), then extend to **Node.js, Go, React, Angular** when I need them — all from one repository.
 
 ---
 
@@ -217,12 +217,12 @@ Common antipatterns, breaking changes, package recommendations, architecture dec
 
 ---
 
-## Contributing: Add a New Language
+## Adding a New Language
 
-Want to add support for a new language or tech stack? It's designed for this:
+This repo is designed so I can add new languages later.
 
 1. Create folder: `language-name/`
-2. Create language-specific agents, skills, commands
+2. Create language-specific agents, skills, and commands
 3. Reference shared core where applicable
 4. Update registry files: `AGENTS.md`, `LANGUAGES.md`
 5. Done! ✅
@@ -247,7 +247,7 @@ See [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md) for detailed steps.
 - **All Languages**: [LANGUAGES.md](LANGUAGES.md) — Status & roadmap
 - **Agent Registry**: [AGENTS.md](AGENTS.md) — How agents route & load skills
 - **Add New Language**: [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md)
-- **Contributing**: [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Extension guide**: [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md)
 
 ---
 
