@@ -6,7 +6,7 @@
 
 ## Overview
 
-The polyglot-claude-kit is designed to be extensible. Adding a new language involves:
+This repository is set up so I can extend it to additional languages over time. Adding a new language involves:
 
 1. **Create language folder** — `language-name/`
 2. **Create language-specific CLAUDE.md** — Router + skill/agent loading
@@ -397,6 +397,6 @@ mkdir -p node/templates/{express-api,fastify-api,worker}
 
 ---
 
-## Questions or Issues?
+## Questions or Notes
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for community guidelines.
+This guide is for my personal extension process. If I need to make a note or revisit the workflow, I can update this file directly.

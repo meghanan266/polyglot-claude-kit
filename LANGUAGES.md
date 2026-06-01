@@ -171,9 +171,9 @@ cp polyglot-claude-kit/frontend/angular/CLAUDE.md ./CLAUDE.md
 
 ---
 
-## Contributing a New Language
+## Adding a New Language
 
-Want to add support for a new language or tech stack? See [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md) for detailed instructions.
+When I want to add a new language or tech stack, I use [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md) for the process.
 
 ---
 

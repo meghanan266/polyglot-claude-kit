@@ -71,7 +71,6 @@ polyglot-claude-kit/
 ├── LANGUAGES.md                   # Registry of supported languages
 ├── EXTENSION-GUIDE.md             # How to add new languages
 ├── LICENSE
-└── CONTRIBUTING.md
 ```
 
 ---
@@ -127,9 +126,9 @@ See [LANGUAGES.md](LANGUAGES.md) for detailed status and roadmap.
 
 ---
 
-## For Contributors: Adding a New Language
+## For Future Extension: Adding a New Language
 
-If you want to add support for a new language or tech stack, see [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md).
+When I want to add support for another language or tech stack, I use [EXTENSION-GUIDE.md](EXTENSION-GUIDE.md).
 
 ---
 
